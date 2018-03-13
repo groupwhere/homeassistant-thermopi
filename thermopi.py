@@ -2,7 +2,7 @@
 Support for ThermoPi thermostats.
 
 For more details about this platform, please refer to the documentation at
-https://home-assistant.io/components/climate.thermopi/
+https://github.com/groupwhere/homeassistant-thermopi
 """
 import logging
 from socket import timeout
