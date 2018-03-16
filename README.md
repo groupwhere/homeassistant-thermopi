@@ -17,5 +17,9 @@ Optional:
     port: 88
 ```
 
+What works:
+```
+1. Display in web interface of target temp and operation mode.
+```
 More to come...
 
